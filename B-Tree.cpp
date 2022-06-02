@@ -289,25 +289,3 @@ int main()
 
 	return 0;
 }
-/*
-#include <iostream>
-#include <fstream>
-#include <string>
-using namespace std;
-
-
-int main() 
-{
-    int cont = 1;
-    string nombreArchivo = "C:/Users/Antony/Downloads/Nuevo documento de texto.txt";
-    ifstream archivo(nombreArchivo.c_str());
-    string linea;
-    // Obtener línea de archivo, y almacenar contenido en "linea"
-    while (getline(archivo, linea)) {
-        // Lo vamos imprimiendo
-        //cout << cont++ <<". ";
-        //cout << linea << endl;
-    }
-
-    return 0;
-}*/
