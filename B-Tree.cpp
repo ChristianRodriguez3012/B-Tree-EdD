@@ -1,8 +1,4 @@
-/* B-Tree sample code 27.04.2018
-*  Code is based from the https://www.geeksforgeeks.org/b-tree-set-1-insert-2/
-*  Halil DURMU� ITU BLG22
-*/
-// C++ program for B-Tree insertion
+ 
 #include <iostream>
 #include <fstream>
 #include <string>
